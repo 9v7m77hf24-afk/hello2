@@ -3,7 +3,6 @@ body {
 }
 
 /* Make content area fill the entire browser window */
-html,
 .fullscreen {
   display: flex;
   height: 100%;
